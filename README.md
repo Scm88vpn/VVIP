@@ -11,7 +11,7 @@ wget -q https://raw.githubusercontent.com/Scm88vpn/VVIP/main/update.sh && chmod 
 
 ### UDP
 ```
-wget https://raw.githubusercontent.com/Azigaming404/Autoscript-by-azi/main/udp/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
+wget https://raw.githubusercontent.com/Scm88vpn/VVIP/main/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh
 ```
 
 ### WORK DI OS
